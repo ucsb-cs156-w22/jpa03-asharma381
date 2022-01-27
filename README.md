@@ -2,8 +2,10 @@
 
 Storybook is here:
 
-- Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/storybook>
-- QA: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/storybook>
+https://ucsb-cs156-w22/jpa03-asharma381-docs
+
+- Production: <https://ucsb-cs156-w22.github.io/jpa03-asharma381-docs/storybook>
+- QA: <https://ucsb-cs156-w22.github.io/jpa03-asharma381-docs-qa/storybook>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
