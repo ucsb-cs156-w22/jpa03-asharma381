@@ -2,10 +2,9 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-asharma381/branch/main/graph/badge.svg?token=WuDFDK6F7g)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-asharma381)
 
+GitHub Repo: https://github.com/ucsb-cs156-w22/jpa03-asharma381/
+
 Storybook is here:
-
-https://ucsb-cs156-w22/jpa03-asharma381-docs
-
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-asharma381-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/jpa03-asharma381-docs-qa/storybook>
 
