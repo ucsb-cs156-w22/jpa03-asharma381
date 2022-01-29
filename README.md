@@ -4,7 +4,6 @@ Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/storybook>
-  * Creating a new pull request to be able to see docs-qa live!
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
